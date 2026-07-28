@@ -46,8 +46,8 @@ This project analyzes customer behavior using an e-commerce transaction dataset.
 
 ## 📂 Project Files
 
-- 📓 `Alfido_Tech_Customer_Analysis_Colab.ipynb`
-- 📄 `Alfido_Tech_Customer_Analysis_Report.pdf`
+- 📓 `Alfido_Tech_Customer_Analysis_Code.ipynb`
+- 📄 `Alfido_Tech_Customer_Analysis_Final_Report_.pdf`
 
 ---
 
